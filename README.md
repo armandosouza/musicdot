@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Music Dot
 
 Music Dot é um site de produção musical desenvolvido utilizando HTML, CSS e JavaScript. O projeto tem como objetivo fornecer uma plataforma intuitiva e acessível para músicos e produtores musicais, oferecendo recursos e ferramentas para aprimorar suas habilidades e criar música de alta qualidade.
@@ -20,3 +21,7 @@ Music Dot é um site de produção musical desenvolvido utilizando HTML, CSS e J
 ---
 
 Sinta-se à vontade para explorar, contribuir e utilizar o Music Dot para aprimorar suas habilidades de produção musical!
+=======
+# musicdot
+Music Dot é um site de produção musical desenvolvido utilizando HTML, CSS e JavaScript. 
+>>>>>>> 3662c6eda928b219772464dd9b8bee26f1fb1f40
